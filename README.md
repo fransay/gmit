@@ -1,2 +1,2 @@
 # gmit
-git commit message generator
+git auto commit message generator
